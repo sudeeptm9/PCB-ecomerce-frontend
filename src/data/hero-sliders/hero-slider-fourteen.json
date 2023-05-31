@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "PCB",
+    "subtitle": "Fabrication",
+    "image": "/assets/img/slider/pcb.jpg",
+    "url": "/quote"
+  },
+  {
+    "id": 2,
+    "title": "PCB",
+    "subtitle": "",
+    "image": "/assets/img/slider/slider-5-1.jpg",
+    "url": "/quote"
+  }
+]
